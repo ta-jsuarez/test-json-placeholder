@@ -92,7 +92,7 @@
     {
       "name": "Hotchkis & Wiley High Yield 1",
       "id": 16,
-      "type": "General Tolosa",
+      "type": "General Bond",
       "color": "#0070af"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hotchkis & Ling High Yield 1",
       "id": 21,
-      "type": "General",
+      "type": "General Bond",
       "color": "#0070af"
     },
     {
