@@ -1,243 +1,246 @@
 {
-  "funds": [
-    {
-      "name": "Hotchkis & Wiley High Yield 1",
-      "id": 1,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Price Large Cap Growth",
-      "id": 2,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Small Cap Growth Index Admiral",
-      "id": 3,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Emerging Markets Value I",
-      "id": 4,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Target Retirement Income Inv",
-      "id": 5,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Wilson Low Yield 1",
-      "id": 6,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Price Large Growth",
-      "id": 7,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Small Cap Index",
-      "id": 8,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Markets Value III",
-      "id": 9,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Vanguard Income Inv",
-      "id": 10,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },    {
-      "name": "Hotchkis High 1",
-      "id": 11,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Price Large Cap Growth",
-      "id": 12,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Small Cap Growth Index Admiral",
-      "id": 13,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Markets Value I",
-      "id": 14,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Vanguard Pineda Retirement Income Inv",
-      "id": 15,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Hotchkis & Wiley High Yield 1",
-      "id": 16,
-      "type": "General Tolosa",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Price Large Cap Growth",
-      "id": 17,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Suarez Cap Growth Index Admiral",
-      "id": 18,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Ling Markets Value I",
-      "id": 19,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Vanguard Target Retirement Income Inv",
-      "id": 20,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Hotchkis & Ling High Yield 1",
-      "id": 21,
-      "type": "General",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Price Cap Growth",
-      "id": 22,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Small Cap Index Admiral",
-      "id": 23,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Yousif Markets Value I",
-      "id": 24,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Pineda Target Retirement Income Inv",
-      "id": 25,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Tolosa & Wiley High Yield 1",
-      "id": 26,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Suarez Large Cap Growth",
-      "id": 27,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Cap Growth Index Admiral",
-      "id": 28,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Markets Value I",
-      "id": 29,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Target Retirement Inv",
-      "id": 30,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Wiley High Yield 1",
-      "id": 31,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Large Growth",
-      "id": 32,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Small Cap Index Admiral",
-      "id": 33,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Emerging Markets Value I",
-      "id": 34,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Vanguard Retirement Income Inv",
-      "id": 35,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    },
-    {
-      "name": "Hotchkis & Wiley Yield 1",
-      "id": 36,
-      "type": "General Bond",
-      "color": "#0070af"
-    },
-    {
-      "name": "T. Rowe Price Cap Growth",
-      "id": 37,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "Vanguard Cap Growth Index Admiral",
-      "id": 38,
-      "type": "US Stock",
-      "color": "#6aa05c"
-    },
-    {
-      "name": "DFA Emerging Markets Value I",
-      "id": 39,
-      "type": "International Stock",
-      "color": "#ba5880"
-    },
-    {
-      "name": "Target Retirement Income Inv",
-      "id": 40,
-      "type": "Balanced",
-      "color": "#8B86BC"
-    }
-  ]
+  "funds": {
+    "page": 1,
+    "items": [
+      {
+        "name": "Hotchkis & Wiley High Yield 1",
+        "id": 1,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Price Large Cap Growth",
+        "id": 2,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Small Cap Growth Index Admiral",
+        "id": 3,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Emerging Markets Value I",
+        "id": 4,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Target Retirement Income Inv",
+        "id": 5,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Wilson Low Yield 1",
+        "id": 6,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Price Large Growth",
+        "id": 7,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Small Cap Index",
+        "id": 8,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Markets Value III",
+        "id": 9,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Vanguard Income Inv",
+        "id": 10,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },    {
+        "name": "Hotchkis High 1",
+        "id": 11,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Price Large Cap Growth",
+        "id": 12,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Small Cap Growth Index Admiral",
+        "id": 13,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Markets Value I",
+        "id": 14,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Vanguard Pineda Retirement Income Inv",
+        "id": 15,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Hotchkis & Wiley High Yield 1",
+        "id": 16,
+        "type": "General Tolosa",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Price Large Cap Growth",
+        "id": 17,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Suarez Cap Growth Index Admiral",
+        "id": 18,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Ling Markets Value I",
+        "id": 19,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Vanguard Target Retirement Income Inv",
+        "id": 20,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Hotchkis & Ling High Yield 1",
+        "id": 21,
+        "type": "General",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Price Cap Growth",
+        "id": 22,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Small Cap Index Admiral",
+        "id": 23,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Yousif Markets Value I",
+        "id": 24,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Pineda Target Retirement Income Inv",
+        "id": 25,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Tolosa & Wiley High Yield 1",
+        "id": 26,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Suarez Large Cap Growth",
+        "id": 27,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Cap Growth Index Admiral",
+        "id": 28,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Markets Value I",
+        "id": 29,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Target Retirement Inv",
+        "id": 30,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Wiley High Yield 1",
+        "id": 31,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Large Growth",
+        "id": 32,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Small Cap Index Admiral",
+        "id": 33,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Emerging Markets Value I",
+        "id": 34,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Vanguard Retirement Income Inv",
+        "id": 35,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      },
+      {
+        "name": "Hotchkis & Wiley Yield 1",
+        "id": 36,
+        "type": "General Bond",
+        "color": "#0070af"
+      },
+      {
+        "name": "T. Rowe Price Cap Growth",
+        "id": 37,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "Vanguard Cap Growth Index Admiral",
+        "id": 38,
+        "type": "US Stock",
+        "color": "#6aa05c"
+      },
+      {
+        "name": "DFA Emerging Markets Value I",
+        "id": 39,
+        "type": "International Stock",
+        "color": "#ba5880"
+      },
+      {
+        "name": "Target Retirement Income Inv",
+        "id": 40,
+        "type": "Balanced",
+        "color": "#8B86BC"
+      }
+    ]
+  }
 }
